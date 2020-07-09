@@ -1,4 +1,4 @@
-### David Hodge @davezen1 👋
+### David Hodge @davezen1 👋🏽 
 
 
 - 🔭 I’m currently working on ... Clojure, Golang, Google Cloud Platform
