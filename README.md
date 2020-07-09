@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... Clojure, Golang, Google Cloud Platform
 - 🌱 I’m currently learning ... ML Pipelines 
 - 👯 I’m looking to collaborate on ...Clojure, Machine Learning
-- 💬 Ask me about ... Google Cloud Platform
+- 💬 Ask me about ... Google Cloud Platform, I love it and I am a [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/a2552fb9-0f79-4061-91f7-89d948d66871#gs.aeni0c)
 - 📫 How to reach me: ... not email
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I used to be left handed
