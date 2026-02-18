@@ -8,4 +8,4 @@
 - 📫 How to reach me: ... not email
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I used to be left handed
-- I blog here [https://davidhodge.dev/](https://medium.com/@david.hodge)
+- I blog here [https://medium.com/@david.hodge](https://medium.com/@david.hodge)
